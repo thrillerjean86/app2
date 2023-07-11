@@ -10,7 +10,7 @@ with col1:
     st.image("images/damgom.jpg")
 
 with col2:
-    st.title("Damgom")
+    st.title("Nagano Bear")
     content = """
     Hello, I am Damgom. I am a bear, but very cool and handsome."""
     st.info(content)
